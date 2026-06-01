@@ -1,0 +1,16 @@
+{
+  "name": "Do They Like You?",
+  "short_name": "Like You?",
+  "description": "A careful, honest read on whether your crush likes you back.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08142e",
+  "theme_color": "#08142e",
+  "icons": [
+    { "src": "tools/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "tools/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "tools/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
